@@ -1,0 +1,21 @@
+*{
+  background: lightgray;
+}
+
+header h1 {
+  font-size: 60px;
+  font-weight: 700;
+  color: blue;
+}
+header h2 {
+  font-size: 30px;
+  color: blue;
+}
+p{
+  text-align: center;
+  inline-size: 80ch;
+}
+ol{
+inline-size: 80ch;
+text-align: left;
+}
